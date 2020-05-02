@@ -1,0 +1,32 @@
+
+body{
+    background-image: url("/chris.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+
+}
+h1{
+    text-align: center;
+    color: black; 
+    font-family: 'Roboto Slab', serif;
+    background-image: linear-gradient(rgba(185, 187, 178, 0.61), rgba(70, 23, 241, 0.863));
+    border: solid 5px ;
+    margin: 50px; padding: 20px;
+    font-family: 'Open Sans Condensed', sans-serif;
+font-style: italic;
+letter-spacing: 25px;
+line-height: 50px;
+text-shadow: 3px 2px yellow;
+font-family: 'Calistoga', cursive;
+
+
+}
+a{
+    text-decoration: none;
+color: brown;
+font-size: 30px;
+font-weight: bold; 
+}
+
